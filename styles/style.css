@@ -1,0 +1,46 @@
+body
+{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+}
+h1
+{
+    text-align: left;
+    margin-left: 50px;
+}
+div:hover
+{
+    background-color: lightgreen;
+}
+table
+{
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 20px;
+}
+td
+{
+    width: auto;
+    background-color: white;
+    padding: 20px;
+    -webkit-box-shadow: 5px 5px 14px 5px rgba(0,0,0,0.43); 
+box-shadow: 5px 5px 14px 5px rgba(0,0,0,0.43);
+    
+}
+a
+{
+    text-decoration: none;
+    color: black;
+    border: 1px lightgray solid;    
+}
+a:hover
+{
+    background-color: lightgray; 
+    border: 1px gray solid;   
+}
+span
+{
+    color: lightgrey;
+}
+
